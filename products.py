@@ -132,7 +132,7 @@ class Product:
 
         return total_price
 
-# --- Test Code
+# --- Test Code ---
 
 """
 if __name__ == "__main__":

@@ -137,7 +137,7 @@ class Store:
 
         return total_order_price
 
-# --- Test Code
+# --- Test Code ---
 
 """
 if __name__ == "__main__":
